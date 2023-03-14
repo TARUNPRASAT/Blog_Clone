@@ -1,2 +1,2 @@
 # Blog Clone
-Cloned a Website Using HTML,CSS
+Cloned a Webpage Using HTML,CSS
